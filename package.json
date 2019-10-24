@@ -1,0 +1,19 @@
+{
+  "name": "api-test-mercadolibre",
+  "version": "1.0.0",
+  "description": "This project contains the backend of the test for Mercado Libre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedBug97/api-test-mercadolibre.git"
+  },
+  "author": "Vergara Maximiliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedBug97/api-test-mercadolibre/issues"
+  },
+  "homepage": "https://github.com/RedBug97/api-test-mercadolibre#readme"
+}
